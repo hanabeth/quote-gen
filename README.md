@@ -1,5 +1,5 @@
 # Quote Generator
-A small project I did since it's been awhile since I've done vanilla Javascript. Back to the basics.
+A small project I did because it's been awhile since I've done vanilla Javascript. Back to the basics.
 
 ## About
 Ever dreamed of generating random, somewhat inspirational quotes with a click of a button? Well, I've got a treat for you! In the depths of the night I created this minimalist, unoriginal application with wisdom that may or may not be relevant to you. There is also functionality to share the tweet if the spirit so moves you.
